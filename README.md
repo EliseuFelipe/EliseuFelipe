@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @EliseuFelipe
+- 👋 Hi, I’m @EliseuFelipe.
 
-- 👀 I’m interested in Desktop aplications, Web applications (Front-end and back-end) and computer networks. 
+- 👀 I’m interested in Desktop applications, Web applications (Front-end and back-end) and computer networks. 
 
 - 🌱 I’m currently learning ReactJS.
 
