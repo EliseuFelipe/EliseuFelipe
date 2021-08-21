@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Desktop applications, Web applications (Front-end and back-end) and computer networks. 
 
-- 🌱 I’m currently learning ReactJS.
+- 🌱 I’m currently learning ReactJS and React Native.
 
 - 📫 How to reach me, e-mail: eliseufelipea@gmail.com
 
