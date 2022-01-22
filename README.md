@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @EliseuFelipe.
 
-- 👀 I’m interested in Desktop applications, Web applications (Front-end and back-end) and computer networks. 
+- 👀 I’m interested in software development. 
 
-- 🌱 I’m currently learning ReactJS and React Native.
+- 🌱 I’m currently learning ReactJS, React Native and Spring Boot.
 
 - 📫 How to reach me, e-mail: eliseufelipea@gmail.com
 
