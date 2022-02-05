@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in software development. 
 
-- 🌱 I’m currently learning ReactJS, React Native and Spring Boot.
+- 🌱 I’m currently learning ReactJS, React Native, Spring Boot and VueJS.
 
 - 📫 How to reach me, e-mail: eliseufelipea@gmail.com
 
